@@ -1,0 +1,30 @@
+{
+    "users": [
+        {
+            "username": "Alice",
+            "password": "123456"
+        },
+        {
+            "username": "Bob",
+            "password": "qwerty"
+        },
+        {
+            "username": "Xiaoming",
+            "password": "666"
+        },
+        {
+            "username": "Chengfeng",
+            "password": "abcdef"
+        }
+    ],
+    "groups": [
+        {
+            "name": "putongqun",
+            "members": [
+                "Xiaoming",
+                "Chengfeng",
+                "Bob"
+            ]
+        }
+    ]
+}
